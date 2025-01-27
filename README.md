@@ -1,3 +1,6 @@
+## Project live demo:
+You can view the live demo of the project here: [Deployed Project on Netlify](https://rinkaltest.netlify.app/)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
