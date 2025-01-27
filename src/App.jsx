@@ -86,7 +86,7 @@ function App() {
               <div className="row">
                 <div className="col-lg-6 col-md-8 mx-auto">
                   <img
-                    src="image/Rinkal.jpg"
+                    src="/image/Rinkal.jpg"
                     alt="Rinkal"
                     className="rounded-circle img-fluid"
                     width="300"

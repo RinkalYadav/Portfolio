@@ -6,7 +6,7 @@ function Certifications() {
       <div className="cir">
         {/* Certification 1 */}
         <div className="ci">
-          <img src="image/SQL(Advanced).png" alt="Advanced SQL" />
+          <img src="/image/SQL(Advanced).png" alt="Advanced SQL" />
           <p>
             I have completed an Advanced SQL Certificate, which deepened my
             understanding of complex database concepts and advanced query
@@ -28,7 +28,7 @@ function Certifications() {
 
         {/* Certification 2 */}
         <div className="ci">
-          <img src="image/SQL(Intermidaite).png" alt="Intermediate SQL" />
+          <img src="/image/SQL(Intermidaite).png" alt="Intermediate SQL" />
           <p>
             I have completed an Intermediate SQL Certificate, which strengthened
             my skills in working with relational databases and querying data.
@@ -50,7 +50,7 @@ function Certifications() {
 
         {/* Certification 3 */}
         <div className="ci">
-          <img src="image/sql(Basics).png" alt="Basic SQL" />
+          <img src="/image/sql(Basics).png" alt="Basic SQL" />
           <p>
             I have completed a Basic SQL Certificate, which provided me with a
             solid foundation in relational database management and query
@@ -70,7 +70,7 @@ function Certifications() {
 
         {/* Certification 4 */}
         <div className="ci">
-          <img src="image/basic.png" alt="Basic CSS" />
+          <img src="/image/basic.png" alt="Basic CSS" />
           <p>
             I have completed a Basic CSS Certificate, which provided me with a
             strong foundation in web design and styling. This course covered the
@@ -89,7 +89,7 @@ function Certifications() {
           </p>
         </div>
         <div className="ci">
-          <img src="image/JavaScript(Basic).png" alt="Basic CSS" />
+          <img src="/image/JavaScript(Basic).png" alt="Basic CSS" />
           <p>
             I’m excited to share that I’ve completed the JavaScript (Basic)
             Certification from HackerRank! 🎉 This course provided me with a
@@ -106,7 +106,7 @@ function Certifications() {
           </p>
         </div>
         <div className="ci">
-          <img src="image/Java(Basic).png" alt="Basic CSS" />
+          <img src="/image/Java(Basic).png" alt="Basic CSS" />
           <p>
             I'm excited to announce that I have completed the Java (Basic)
             Certification from HackerRank! 🎉☕ This course helped me build a

@@ -5,7 +5,7 @@ function Internship() {
     <main>
       <div className="main">
         <div className="img">
-          <img src="image/internship.png" alt="Internship" />
+          <img src="/image/internship.png" alt="Internship" />
         </div>
         
         <div className="text">
